@@ -1,4 +1,4 @@
-## Hello 👋
+# Hello 👋
 
 <!--
 **christophermiliotis/christophermiliotis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Chris. Nice to meet you. I'm currently the [Engineering Manager](https://www.linkedin.com/in/christophermiliotis/) of [SoundCloud's](https://soundcloud.com/) Media Streaming team. I am incredibly lucky to build software that helps deliver audio to millions of people worldwide.
+My name is Chris. Nice to meet you. I'm currently the [Engineering Manager](https://www.linkedin.com/in/christophermiliotis/) of the Media Streaming team at [SoundCloud](https://soundcloud.com/). I am incredibly lucky to build software that delivers audio to millions of people worldwide.
+
+I am originally from Greece 🇬🇷 but I live in the UK the last 15+ years.
+
+## Get In Touch
+
+The best way to reach me is via [LinkedIn]((https://www.linkedin.com/in/christophermiliotis/)) or email me: `faberlow` at `gmail.com`. 
