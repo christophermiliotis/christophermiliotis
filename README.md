@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 My name is Chris. Nice to meet you. I'm currently the [Engineering Manager](https://www.linkedin.com/in/christophermiliotis/) of the Media Streaming team at [SoundCloud](https://soundcloud.com/). I am incredibly lucky to build software that delivers audio to millions of people worldwide.
 
-I am originally from Greece 🇬🇷 but I live in the UK the last 15+ years.
+I am originally from Greece 🇬🇷 but in the past 15+ years I'm living in the UK.
 
 ## Get In Touch
 
