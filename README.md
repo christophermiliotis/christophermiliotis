@@ -21,4 +21,4 @@ I am originally from Greece 🇬🇷 but in the past 15+ years I'm living in the
 
 ## Get In Touch
 
-The best way to reach me is via [LinkedIn]((https://www.linkedin.com/in/christophermiliotis/)) or email me: `faberlow` at `gmail.com`. 
+The best way to reach me is via [LinkedIn](https://www.linkedin.com/in/christophermiliotis/) or email me: `faberlow` at `gmail.com`. 
